@@ -11,14 +11,17 @@
 ## Set Up
 To run this program you will need to:
 
-1.Clone this repository in your terminal ; git clone [url here ]
+1. Clone this repository in your terminal ; git clone [url here ]
 
-2.Using Dbeaver,export the files
+2. Using Dbeaver, Use the credentials provided to log into the Database
 
-3.Open Dbeaver window and click on SQL icon.
+3. Navigate to the analyst_intern table
 
-4.Run query scripts.
+4. Right click, and select file option
 
+5. Import Sql file from the cloned repo on Step 1
+
+6. Execute Sql file
 
 
 
